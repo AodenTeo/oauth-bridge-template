@@ -4,7 +4,7 @@ This is a modification of mpj's OAuth bridge template intended for use with my s
 
 ## Runing Jammming Locally
 
-In order to use this with Jammming, you have to simultaneously run this to act as a backend server to obtain authorization. It assumes that Jammming will be running on localhost:5000, but the server itself will be running on localhost:8888.
+In order to use this with Jammming, you must run both simultaneously. It assumes that Jammming will be running on localhost:5000, but the server itself will be running on localhost:8888.
 
 To run it locally, you must register the Spotify Application here:
 https://developer.spotify.com/my-applications
